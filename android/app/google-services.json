@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119178847170",
+    "firebase_url": "https://pic-speak.firebaseio.com",
+    "project_id": "pic-speak",
+    "storage_bucket": "pic-speak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119178847170:android:e35b736e6922af66faec5b",
+        "android_client_info": {
+          "package_name": "com.mrltstudios.picspeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119178847170-scm1qub0pfksqlj5kfhng2ghp6qff1u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBae9xE8usq1q_jSeQExWvSMN9haO2HlDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119178847170-scm1qub0pfksqlj5kfhng2ghp6qff1u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
